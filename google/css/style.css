@@ -57,8 +57,7 @@ a:hover {
 
 
 #main {
-    max-height: 100px;
-    display: block;
+    grid-template-rows: 25% 100px 100px auto;
 }
 
 #logo {
